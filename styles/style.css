@@ -1,0 +1,35 @@
+/* Etilizando a navbar */
+nav {background-color: #1d1c1c;}
+.nav-btn {
+  background-color: #f9f9f900;
+  color: #4f91ca;
+  border-color: #4f91ca;
+}
+.nav-btn:hover {
+  color: black;
+  background-color: #4f91ca;
+}
+.nav-icon {color: white;}
+.nav-icon:hover {color: #4f91ca;}
+.line-color {background-color: #79acd8;}
+
+/* Estilizando os cards de catálogo */
+.style-card {background-color: #0e0e0e;}
+.style-card:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.img-card-animation:hover {opacity: 0.6;}
+
+.card-icon-like {color: silver;}
+.card-icon-deslike {color: silver;}
+.card-icon-share{color: silver;}
+.card-icon-info{color: #4f91ca;}
+
+.card-icon-like:hover {color: #4f91ca;}
+.card-icon-deslike:hover {color: red;}
+.card-icon-share:hover {color: white;}
+.card-icon-info:hover {color: #0083f5;}
+/* Footer  */
+.bg-footer {background-color: white;}
